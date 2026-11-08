@@ -1,0 +1,82 @@
+{
+  "source_commit": "83655bc25901a8cabe3a1e5474b7ec26f01b919f",
+  "method": "Algebraic recovery from published per-fold metrics; not model retraining",
+  "detailed_rows": 1160,
+  "aggregate_rows": 232,
+  "test_groups": 116,
+  "canonical_sources": [
+    {
+      "experiment": "MD_5000/Cp/alternating_Cp/seed_42",
+      "canonical_sha256": "7dad9d1dc0e93d112a2137c728c773d6255bf2c9af9ca4ddda1d90961eec6952",
+      "rows": 27802,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/Cp/homopolymer_Cp/seed_42",
+      "canonical_sha256": "0b09e47df3b69aa9b439838fe5027fd255ab73213820d87cf346567149f437a7",
+      "rows": 1800,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/Cv/homopolymer_Cv/seed_42",
+      "canonical_sha256": "a4ab4e8767903ce93c2250b7c049a1217643dc92e6943609f4e0c706fae0430e",
+      "rows": 1788,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/Rg/alternating_Rg/seed_42",
+      "canonical_sha256": "9d7ae9952ac8aeba415dae27b6262ff6d4cfc52afa2ae7c60e4cb593e0d18849",
+      "rows": 27802,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/Rg/homopolymer_Rg/seed_42",
+      "canonical_sha256": "c6ad85b0ad2ae454a44891b02bb49179699a2ea34d05e8e2fcf384365f5d61b0",
+      "rows": 1800,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/density/alternating_density/seed_42",
+      "canonical_sha256": "85849255beb2dd7a78e05507e8215b3c8af31325ada92051879ac581340b3f8c",
+      "rows": 27802,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/density/homopolymer_density/seed_42",
+      "canonical_sha256": "b8a576b9fa2749cf943940367147b05baf01d8cd3e48cbaf9431b04d801b34b7",
+      "rows": 1800,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/refractive_index/alternating_refractive_index/seed_42",
+      "canonical_sha256": "c2f63ecebb1edff22cb94aea8a8caeb61d7c526596870e83845574b4b4f95b38",
+      "rows": 26509,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "MD_5000/refractive_index/homopolymer_refractive_index/seed_42",
+      "canonical_sha256": "d2089e5519f07a451cd1eab05980b88f4007a4347d2a2c87c0a8e4b7700a814c",
+      "rows": 1715,
+      "folds": 5,
+      "checksum_verified": true
+    },
+    {
+      "experiment": "PolyMetriX/Tg/Tg/seed_42",
+      "canonical_sha256": "b6d2b9f83419c94c5b24200b0288d9a7b53256931d87ffc1533c8884119a09d3",
+      "rows": 7367,
+      "folds": 5,
+      "checksum_verified": true
+    }
+  ],
+  "all_sample_counts_match": true,
+  "all_published_rmse_aggregates_match": true,
+  "limitations": "Original predictions are not public; precision is limited by published errors and documented evaluation conventions."
+}

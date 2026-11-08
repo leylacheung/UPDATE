@@ -1,0 +1,11 @@
+{
+  "input_rows": 232,
+  "plotted_test_rows": 116,
+  "conditions": 10,
+  "models": 4,
+  "folds": 5,
+  "input_sha256": "2df3a0ddc104d3e4f9b6d07772c5805e05b0161817f9a3fa17c94b5f7cd86e18",
+  "pdf_pages": 12,
+  "r2_min_mean": -1.291402985,
+  "error_bars": "population standard deviation, not confidence intervals"
+}
