@@ -1,0 +1,6 @@
+{
+  "expected_runs": 290,
+  "completed_runs": 0,
+  "remaining_runs": 290,
+  "r2_aggregation": "arithmetic mean of per-fold R2; std ddof=0; never derive from mean RMSE"
+}
